@@ -12,7 +12,7 @@ const meals = [
     image: greekSaladImage,
     price: '$12.99',
     description: `The famous greek salad of crispy lettuce, peppers, olives and 
-      our Chicago style feta cheese, garnished with crunchy garlic and rosemary 
+      our Bengaluru style feta cheese, garnished with crunchy garlic and rosemary 
       croutons.`,
   },
   {
