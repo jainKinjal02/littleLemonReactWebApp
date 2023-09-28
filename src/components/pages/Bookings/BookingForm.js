@@ -56,7 +56,7 @@ const BookingForm = ({
         hasError={!isDateValid()} 
         errorMessage={invalidDateErrorMessage}
       >
-        <input 
+        <input
           type="date" 
           id="booking-date" 
           name="booking-date" 
