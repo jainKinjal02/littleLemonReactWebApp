@@ -6,7 +6,7 @@ import pages from './utils/pages';
 import Layout from './components/layout/Layout';
 import Home from './components/pages/Home';
 import Bookings from './components/pages/Bookings';
-import ConfirmedBooking from './components/pages/Bookings/ConfirmedBooking';
+import ConfirmedBooking from './components/pages/Bookings/ConfirmedBooking.js';
 import NotFound from './components/pages/NotFound';
 import UnderConstruction from './components/pages/UnderConstruction';
 
