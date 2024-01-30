@@ -1,1 +1,1 @@
-# My capstone project for the Meta Front-End Developer Professional Certificate
+The Little Lemon Restaurant Web Application is a modern, responsive, and user-friendly React-based website designed to enhance the online presence and user experience for the Little Lemon restaurant. The primary features include a landing page with essential information about the restaurant, a table reservation system, and a section to showcase customer reviews.
